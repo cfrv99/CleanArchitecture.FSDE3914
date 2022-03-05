@@ -19,7 +19,6 @@ namespace FirstApi.Infrastructure.EF.Repositories
         public async Task Add(T entity)
         {
             await context.Set<T>().AddAsync(entity);
-
         }
 
         public async Task<int> Commit()
@@ -47,5 +46,6 @@ namespace FirstApi.Infrastructure.EF.Repositories
         {
             context.Set<T>().Update(entity);
         }
+
     }
 }
