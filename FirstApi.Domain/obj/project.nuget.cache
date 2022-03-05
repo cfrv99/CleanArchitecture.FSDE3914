@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CG4cX3mno5DUdtVkFLCYMBw8jDGyMEnHif3Eec5ta9ixnXMemyYjoBPeF8j/yp4tjUgp1hafv8b3LfhJMxWERw==",
+  "dgSpecHash": "6aK3/hXFmW2TDHHuy2xtu0iZKGG9aPdh4lvJtu+knyFfDQiS6sjp9t2S0/E7L+C/WFaSMjvEryDMu5FlSdHvaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.jafarov\\source\\repos\\FirstApi\\FirstApi.Domain\\FirstApi.Domain.csproj",
+  "projectFilePath": "C:\\Users\\m.jafarov\\Desktop\\CleanArchitecture\\CleanArchitecture.FSDE3914\\FirstApi.Domain\\FirstApi.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

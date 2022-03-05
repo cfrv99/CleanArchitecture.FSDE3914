@@ -200,11 +200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.jafarov\\source\\repos\\FirstApi\\FirstApi\\FirstApi.csproj",
+      "projectUniqueName": "C:\\Users\\m.jafarov\\Desktop\\CleanArchitecture\\CleanArchitecture.FSDE3914\\FirstApi\\FirstApi.csproj",
       "projectName": "FirstApi",
-      "projectPath": "C:\\Users\\m.jafarov\\source\\repos\\FirstApi\\FirstApi\\FirstApi.csproj",
+      "projectPath": "C:\\Users\\m.jafarov\\Desktop\\CleanArchitecture\\CleanArchitecture.FSDE3914\\FirstApi\\FirstApi.csproj",
       "packagesPath": "C:\\Users\\m.jafarov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.jafarov\\source\\repos\\FirstApi\\FirstApi\\obj\\",
+      "outputPath": "C:\\Users\\m.jafarov\\Desktop\\CleanArchitecture\\CleanArchitecture.FSDE3914\\FirstApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

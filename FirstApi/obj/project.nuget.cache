@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vQs6kNToNBXAtbz7hU6juqoxAYqhEgxVYluKRuTDNHeCIF+ekDxUJULDkAyvrxfYxKzGOCPBVIJJkii4jyJkFQ==",
+  "dgSpecHash": "yh2kL+ty/IwhmVin9r12MvVZuujOyxjg12sEOCCXkoQ+d+vOUpe3uCzaU09JwHsuMAIsrcSDW+LI5npL+KKCUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.jafarov\\source\\repos\\FirstApi\\FirstApi\\FirstApi.csproj",
+  "projectFilePath": "C:\\Users\\m.jafarov\\Desktop\\CleanArchitecture\\CleanArchitecture.FSDE3914\\FirstApi\\FirstApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\m.jafarov\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\m.jafarov\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
