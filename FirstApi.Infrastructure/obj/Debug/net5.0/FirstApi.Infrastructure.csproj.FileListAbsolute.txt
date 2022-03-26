@@ -1,0 +1,15 @@
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Infrastructure\bin\Debug\net5.0\FirstApi.Infrastructure.deps.json
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Infrastructure\bin\Debug\net5.0\FirstApi.Infrastructure.dll
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Infrastructure\bin\Debug\net5.0\ref\FirstApi.Infrastructure.dll
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Infrastructure\bin\Debug\net5.0\FirstApi.Infrastructure.pdb
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Infrastructure\bin\Debug\net5.0\FirstApi.Domain.dll
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Infrastructure\bin\Debug\net5.0\FirstApi.Domain.pdb
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Infrastructure\obj\Debug\net5.0\FirstApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Infrastructure\obj\Debug\net5.0\FirstApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Infrastructure\obj\Debug\net5.0\FirstApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Infrastructure\obj\Debug\net5.0\FirstApi.Infrastructure.AssemblyInfo.cs
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Infrastructure\obj\Debug\net5.0\FirstApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Infrastructure\obj\Debug\net5.0\FirstApi.Infrastructure.csproj.CopyComplete
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Infrastructure\obj\Debug\net5.0\FirstApi.Infrastructure.dll
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Infrastructure\obj\Debug\net5.0\ref\FirstApi.Infrastructure.dll
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Infrastructure\obj\Debug\net5.0\FirstApi.Infrastructure.pdb

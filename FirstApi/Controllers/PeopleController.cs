@@ -1,6 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using FirstApi.Application.Filters;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -21,7 +23,8 @@ namespace FirstApi.Controllers
         }
 
         [HttpPost("create-person")]
-        public async Task<IActionResult> CreatePerson(Person person,[FromHeader]string toke)
+        [ValidationFilter]
+        public async Task<IActionResult> CreatePerson(Person person)
         {
             return Ok("New Person added");
         }
@@ -35,6 +38,7 @@ namespace FirstApi.Controllers
 
     public class Person
     {
+        [Required]
         public string Name { get; set; }
         public string Surname { get; set; }
         public string Age { get; set; }

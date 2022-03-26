@@ -1,0 +1,12 @@
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Domain\bin\Debug\net5.0\FirstApi.Domain.deps.json
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Domain\bin\Debug\net5.0\FirstApi.Domain.dll
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Domain\bin\Debug\net5.0\ref\FirstApi.Domain.dll
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Domain\bin\Debug\net5.0\FirstApi.Domain.pdb
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Domain\obj\Debug\net5.0\FirstApi.Domain.csproj.AssemblyReference.cache
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Domain\obj\Debug\net5.0\FirstApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Domain\obj\Debug\net5.0\FirstApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Domain\obj\Debug\net5.0\FirstApi.Domain.AssemblyInfo.cs
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Domain\obj\Debug\net5.0\FirstApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Domain\obj\Debug\net5.0\FirstApi.Domain.dll
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Domain\obj\Debug\net5.0\ref\FirstApi.Domain.dll
+C:\Users\Murad\OneDrive\Desktop\Projects\FSDE3914\CleanArchitecture.FSDE3914\FirstApi.Domain\obj\Debug\net5.0\FirstApi.Domain.pdb

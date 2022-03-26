@@ -10,6 +10,7 @@ namespace FirstApi.Domain.Commons.Responses
     {
         public string ErrorMessage { get; set; }
         public bool IsSuccess { get; set; }
+        public List<ValidationError> ValidationErrors { get; set; }
         public T Data { get; set; }
 
         public ApiResponse(T data)
@@ -24,5 +25,11 @@ namespace FirstApi.Domain.Commons.Responses
             ErrorMessage = errorMessage;
             IsSuccess = false;
         }
+    }
+
+    public class ValidationError
+    {
+        public string FieldName { get; set; }
+        public string ErrorMessage { get; set; }
     }
 }
