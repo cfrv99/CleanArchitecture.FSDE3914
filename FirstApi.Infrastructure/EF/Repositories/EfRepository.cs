@@ -46,6 +46,5 @@ namespace FirstApi.Infrastructure.EF.Repositories
         {
             context.Set<T>().Update(entity);
         }
-
     }
 }
